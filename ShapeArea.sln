@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeArea", "ShapeArea\ShapeArea.csproj", "{0FEAC50A-1945-4C4B-9967-21C2C675C12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleShapeArea", "ConsoleShapeArea\ConsoleShapeArea.csproj", "{3BF2AEED-B22E-4CAC-A50D-F08A45DF7C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FEAC50A-1945-4C4B-9967-21C2C675C12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEAC50A-1945-4C4B-9967-21C2C675C12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEAC50A-1945-4C4B-9967-21C2C675C12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEAC50A-1945-4C4B-9967-21C2C675C12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF2AEED-B22E-4CAC-A50D-F08A45DF7C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF2AEED-B22E-4CAC-A50D-F08A45DF7C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF2AEED-B22E-4CAC-A50D-F08A45DF7C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF2AEED-B22E-4CAC-A50D-F08A45DF7C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A83E4F8-A472-48A3-B85D-F6DFEF2B168B}
+	EndGlobalSection
+EndGlobal
